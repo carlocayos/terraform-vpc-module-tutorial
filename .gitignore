@@ -1,5 +1,5 @@
 # IntelliJ project files
-../.idea
+.idea
 *.iml
 out
 gen
@@ -24,4 +24,3 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
-
